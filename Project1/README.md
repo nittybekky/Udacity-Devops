@@ -1,4 +1,4 @@
-Cloudfront Domain Name: https://d1hayl5aj0hqwm.cloudfront.net/
+Cloudfront Domain Name: https://d2awlnzdua7gwp.cloudfront.net
 
 Bucket Website Endpoint: http://abarugo.s3-website-us-east-1.amazonaws.com
 
