@@ -53,7 +53,7 @@ Then it checks to see if the stack you are trying to create exists. If it doesn'
 to create the new stack. If the stack exists, it gives you the option to either update or delete the stack.
 
 2. After creating the network stack successfully, manually create an S3 bucket named 'udagram-mini-site' and upload the udagram.zip 
-file into the bucket. (You may use AWS CLI or directly on AWS console).
+file into the bucket. (You may use AWS CLI or directly on AWS console). Make the S3 bucket public.
 
 3. If the network stack and S3 bucket are created successfully, then create the server stack using: 
 
